@@ -1,2 +1,2 @@
-# Mohamed
-Exercices of Mohamed Ofppt
+# Mohamed Chakouj
+Exercices of Mohamed Chakouj Ofppt
