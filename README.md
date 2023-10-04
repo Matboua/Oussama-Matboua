@@ -2,19 +2,19 @@
 ### TP Serie S1 et S2
 (Ctrl + Click to open in a new Tab)
 <br /><br />
-first Q : https://matboua.github.io/Oussama-Matboua/Exercices/Q1_S1/index.html
+first Q : https://matboua.github.io/Oussama-Matboua/S1 et S2/S1_Q1/index.html
 <br /><br />
-second Q : https://matboua.github.io/Oussama-Matboua/Exercices/Q2_S1/index.html
+second Q : https://matboua.github.io/Oussama-Matboua/S1 et S2/S1_Q2/index.html
 <br /><br />
-third Q : https://matboua.github.io/Oussama-Matboua/Exercices/Q1_S2/index.html
+third Q : https://matboua.github.io/Oussama-Matboua/S1 et S2/S2_Q1/index.html
 <br /><br />
-fourth Q : https://matboua.github.io/Oussama-Matboua/Exercices/Q2_S2/index.html
+fourth Q : https://matboua.github.io/Oussama-Matboua/S1 et S2/S2_Q2/index.html
 <br /><br />
-fifth Q : https://matboua.github.io/Oussama-Matboua/Exercices/Q3_S2/index.html
+fifth Q : https://matboua.github.io/Oussama-Matboua/S1 et S2/S2_Q3/index.html
 <br /><br />
-sixth Q : https://matboua.github.io/Oussama-Matboua/Exercices/Q4_S2/index.html
+sixth Q : https://matboua.github.io/Oussama-Matboua/S1 et S2/S2_Q4/index.html
 <br /><br />
-seventh Q : https://matboua.github.io/Oussama-Matboua/Exercices/Q5_S2/index.html
+seventh Q : https://matboua.github.io/Oussama-Matboua/S1 et S2/S2_Q5/index.html
 <br /><br />
 ### TP Serie S3 :
 (Ctrl + Click to open in a new Tab)
