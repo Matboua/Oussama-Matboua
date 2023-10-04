@@ -1,6 +1,6 @@
-*To see the Projects :
+* To see the Projects :
 <br /><br />
-***First Exercices
+*** First Exercices
 <br /><br />
 (Ctrl + Click to open new Tab)
 <br /><br />
