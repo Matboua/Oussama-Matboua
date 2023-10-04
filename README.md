@@ -1,6 +1,6 @@
 # To see the Projects :
 ### First Exercices
-(Ctrl + Click to open new Tab)
+(Ctrl + Click to open in a new Tab)
 <br /><br />
 first : https://matboua.github.io/Oussama-Matboua/Exercices/Q1_S1/index.html
 <br /><br />
